@@ -42,3 +42,9 @@ An IoT-based Smart Helmet developed using the **ESP32** to improve rider safety.
 4. When the vehicle exceeds the configured speed limit, an overspeed warning is issued.
 5. Users can update the emergency contact number and custom SMS message through a BLE-enabled Android application.
 
+## Images 
+![image alt](https://github.com/TharakaLenadora/Safety-Ride-Helmet/blob/baa679bd3b04b845174b539d02964e7a2a752b50/WhatsApp%20Image%202026-07-24%20at%2002.26.32%20(2).jpeg)
+
+![image alt](https://github.com/TharakaLenadora/Safety-Ride-Helmet/blob/baa679bd3b04b845174b539d02964e7a2a752b50/WhatsApp%20Image%202026-07-24%20at%2002.26.32%20(1).jpeg)
+
+![image alt](https://github.com/TharakaLenadora/Safety-Ride-Helmet/blob/baa679bd3b04b845174b539d02964e7a2a752b50/WhatsApp%20Image%202026-07-24%20at%2002.26.32%20(3).jpeg)
